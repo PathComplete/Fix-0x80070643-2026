@@ -32,4 +32,4 @@ Fix Windows Update error 0x80070643 by repairing system files, resetting update 
 - Failed installation issue
 - Often tied to update services
 - Commonly fixed by troubleshooting
-- May require system repair     
+- May require system repair      
